@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "bp6a_evk_shield")(type "KiCad")(uri "C:/Users/dykim/Downloads/kicad-main/kicad-main/bp6a_evk_shield.pretty")(options "")(descr ""))
-  (lib (name "bp6a_comp_footprints")(type "KiCad")(uri "${KIPRJMOD}/bp6a_comp_footprints.pretty")(options "")(descr ""))
-)
